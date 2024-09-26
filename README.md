@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MusaviMariam, an enthusiastic Python and Matlab programmer
-- 🌱 I'm doing C++ and Python stuff for AI accelerators
-- 🌱 I’m keenly interested in learning C++ for Embedded Systems Development 
-- 👀 I’m interested in wireless research areas of 5G and Beyond, Resource Allocation, User Association, Deep Learning, Federated Learning
-- 💞️ I’m looking to collaborate on 5G and Beyond, Resource Allocation, Deep Learning, and Federated Learning for IoT Applications
+- 👋 Hi, I’m @MusaviMariam, a passionate problem solver
+- 🌱 I'm doing C++ and Python scripting stuff for CGRAs
+- 🌱 I’m keenly interested in learning C++ for Embedded Systems 
+- 👀 My domain knowledge hovers around wireless communication 5G and Beyond, Resource Allocation and Optimization, User Association, Reinforcement Learning
 - 📫 How to reach me: https://www.linkedin.com/in/mariammusavi/
 
 <!---
